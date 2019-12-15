@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 import io.appium.java_client.AppiumDriver;
 
 public class First {
-
+ 
 	Parametric p = new Parametric();
 
 	public WebDriver driver;
